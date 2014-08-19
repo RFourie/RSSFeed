@@ -1,0 +1,9 @@
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\bin\RSS Reader.dll
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\bin\RSS Reader.pdb
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\obj\Debug\RSS Reader.dll
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\obj\Debug\RSS Reader.pdb
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\bin\EntityFramework.dll
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\bin\EntityFramework.SqlServer.dll
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\bin\EntityFramework.xml
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\bin\EntityFramework.SqlServer.xml
+C:\Users\Ruan\Documents\RSS Reader\RSS Reader\obj\Debug\RSS Reader.csprojResolveAssemblyReference.cache
